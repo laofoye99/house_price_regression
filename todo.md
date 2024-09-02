@@ -10,9 +10,9 @@ TODO：
 	
 	- <input type="checkbox"> 查看数据分布（每一类有多少个值，每一个变量售价的平均值）
 
-	![image1](./Archive/EDA_result/Boxplot of MSSubClass.png)
+	![image1](https://github.com/laofoye99/house_price_regression/blob/main/Archive/EDA_result/Boxplot%20of%20MSSubClass.png?raw=true)
 
-	![image2](./Archive/EDA_result/Distribution of MSSubClass.png)
+	![image2](https://github.com/laofoye99/house_price_regression/blob/main/Archive/EDA_result/Distribution%20of%20MSSubClass.png?raw=true)
 
 	- <input type="checkbox"> 检查多重共线性（PCA，Lasso，Ridge）
 
@@ -27,3 +27,5 @@ TODO：
 	- <input type="checkbox"> 标准化
 	- <input type="checkbox"> 特征工程（多项式特征，交互特征）
 	- <input type="checkbox"> 特征选择
+	- <input type="checkbox"> 创建 evaluation function
+	- <input type="checkbox"> 绘制多变量关系图（pairplot）
